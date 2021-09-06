@@ -1,0 +1,49 @@
+.meeting-detail-card {
+  margin: 20px 0;
+}
+.meeting-card-btn {
+  margin: 0 5px;
+}
+.meeting-detail-date {
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+.meeting-detail-time {
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+.meeting-display {
+  background: #e4e4e4;
+  padding: 40px 20px;
+}
+.back-btn.btn-circle {
+  border-radius: 50%;
+  padding: 10px;
+  align-self: center;
+  display: flex;
+  background: #acacac;
+  border: none;
+}
+.meeting-agenda-list {
+  list-style: disc;
+  margin-left: 20px;
+}
+h3.meeting-title a {
+  color: #0056b3;
+  text-decoration: underline;
+}
+h3.meeting-title a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+.meeting-detail-card.card{
+  border-style: solid;
+  border-width: 0 0 0 4px;
+  border-color: #d3b574;
+  box-shadow: 1px 1px 30px 0 rgb(0 0 0 / 10%);
+  transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+  border-right: 1px solid #dfdfdf;
+  border-top: 1px solid #dfdfdf;
+  border-bottom: 1px solid #dfdfdf;
+}

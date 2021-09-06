@@ -1,0 +1,19 @@
+.task-mgt-col.col {
+  padding: 0;
+  margin: 5px;
+  background-color: #e4e4e4;
+  border-radius: 10px;
+}
+.task-mgt-col h3 {
+  background: rgb(185, 197, 212);
+  padding: 5px 10px;
+  font-size: 1.25rem;
+  font-weight: 500;
+  border-radius: 10px 10px 0 0;
+}
+.task-mgt-col {
+  margin-bottom: 20px;
+}
+.task-detail-card.card {
+  margin-bottom: 10px;
+}

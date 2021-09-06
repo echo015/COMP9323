@@ -1,0 +1,18 @@
+.note-card {
+  /* background-color: #e4e4e4; */
+  margin-bottom: 20px;
+  padding: 10px 20px 25px 0px;
+  border-bottom: 1px solid #e4e4e4;
+}
+.note-action-group {
+  display: flex;
+  justify-content: flex-end;
+}
+.note-anchor-link {
+  border: none;
+  background: none;
+  color: #970f0f;
+  font-weight: 600;
+  line-height: 20px;
+  margin-left: 20px;
+}

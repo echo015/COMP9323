@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52ca8932-f0d0-4225-8985-284302905eb0" name="默认变更列表" comment="update login and user profilr">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/components/Note/NoteDisplay.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/components/Note/NoteDisplay.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/components/Task/TaskCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/components/Task/TaskCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/pages/MeetingDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/pages/MeetingDetails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/pages/TasksManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/pages/TasksManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/styles/meeting.css" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/styles/meeting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group14-front/src/styles/tasks.css" beforeDir="false" afterPath="$PROJECT_DIR$/group14-front/src/styles/tasks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function/meeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/function/meeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/function/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/function/task.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vZfej79ffqUDILqYKZmMpACRMj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../9312/assn2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PyCharm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\unsw\21T2\9323\comp9323\group14-front\src\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.create_db">
+    <configuration name="create_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\envs\flask_dev\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/model" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/model/db_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.create_db" />
+        <item itemvalue="Python.db_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="应用程序级" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="52ca8932-f0d0-4225-8985-284302905eb0" name="默认变更列表" comment="" />
+      <created>1626774630945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626774630945</updated>
+      <workItem from="1626774633480" duration="40000" />
+      <workItem from="1626774684856" duration="11860000" />
+      <workItem from="1627467305633" duration="336000" />
+      <workItem from="1628042595083" duration="17703000" />
+      <workItem from="1628224445044" duration="6374000" />
+      <workItem from="1628301437455" duration="19336000" />
+      <workItem from="1628349923378" duration="6105000" />
+      <workItem from="1628390014843" duration="9116000" />
+      <workItem from="1628406270771" duration="14275000" />
+      <workItem from="1628433916370" duration="5234000" />
+      <workItem from="1628439324675" duration="146000" />
+      <workItem from="1628439550314" duration="8766000" />
+      <workItem from="1628482091002" duration="13850000" />
+      <workItem from="1628578869732" duration="2000" />
+      <workItem from="1628656881345" duration="1910000" />
+      <workItem from="1628673692497" duration="1949000" />
+      <workItem from="1629958200414" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="update login and user profilr">
+      <created>1627467518219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627467518219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update login and user profilr" />
+    <option name="LAST_COMMIT_MESSAGE" value="update login and user profilr" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628047461256">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="429" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1628047461256" />
+    <state x="402" y="72" key="#db_model" timestamp="1628051274966">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="402" y="72" key="#db_model/0.0.1368.872@0.0.1368.872" timestamp="1628051274966" />
+    <state x="466" y="181" key="FileChooserDialogImpl" timestamp="1629958218136">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="466" y="181" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1629958218136" />
+    <state width="1326" height="202" key="GridCell.Tab.0.bottom" timestamp="1628349785860">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="202" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1628349785860" />
+    <state width="1326" height="202" key="GridCell.Tab.0.center" timestamp="1628349785860">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="202" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1628349785860" />
+    <state width="1326" height="202" key="GridCell.Tab.0.left" timestamp="1628349785860">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="202" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1628349785860" />
+    <state width="1326" height="202" key="GridCell.Tab.0.right" timestamp="1628349785860">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="202" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1628349785860" />
+    <state x="188" y="81" key="SettingsEditor" timestamp="1628051312442">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="188" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1628051312442" />
+    <state x="380" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1629958200137">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="264" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1629958200137" />
+    <state x="482" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628482183674">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="482" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1628482183674" />
+    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1628410099277">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1628410099277" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/comp9323$create_db.coverage" NAME="create_db Coverage Results" MODIFIED="1628301747723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/comp9323$db_model.coverage" NAME="db_model Coverage Results" MODIFIED="1628051275640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/model" />
+  </component>
+</project>

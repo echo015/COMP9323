@@ -1,0 +1,23 @@
+p.error-msg {
+  color: hsl(0, 100%, 50%);
+}
+
+p.error-msg::before {
+  display: inline;
+  content: "⚠ ";
+}
+/* Meeting Form */
+.meeting-datetime-picker {
+  width: 100%;
+  height: 38px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 0 10px;
+}
+.meeting-datetime-picker .react-datetime-picker__wrapper {
+  border: none;
+}
+.meeting-datetime-picker
+  button.react-datetime-picker__clear-button.react-datetime-picker__button {
+  display: none;
+}

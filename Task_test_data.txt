@@ -1,0 +1,48 @@
+需要测试用的数据库文件导出。
+
+New Task
+{
+  "User_email": "1@1.com",
+  "Task_title": "1",
+  "StartTime": "1",
+  "EndTime": "1",
+  "Creator_email": "1@1.com",
+  "Creator_name": "1",
+  "Recv_email": "1@1.com,2@2.com",
+  "Task_status": "0",
+  "Description": "Task"
+}
+
+{
+  "User_email": "2@2.com",
+  "Task_title": "2",
+  "StartTime": "2",
+  "EndTime": "2",
+  "Creator_email": "2@2.com",
+  "Creator_name": "1",
+  "Recv_email": "1@1.com,3@3.com",
+  "Task_status": "0",
+  "Description": "Task2"
+}
+
+{
+  "User_email": "3@3.com",
+  "Task_title": "3",
+  "StartTime": "3",
+  "EndTime": "3",
+  "Creator_email": "3@3.com",
+  "Creator_name": "3",
+  "Recv_email": "1@1.com,2@2.com,3@3.com",
+  "Task_status": "0",
+  "Description": "Task3"
+}
+Edit Task
+{
+  "Task_ID": "1",
+  "Task_title": "1",
+  "StartTime": "1",
+  "EndTime": "1",
+  "Recv_email": "1@1.com,2@2.com",
+  "Task_status": "0",
+  "Description": "Task2"
+}
